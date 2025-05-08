@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @IanKipkemboi
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on coding 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Ian Kipkemboi!
 
-<!---
-IanKipkemboi/IanKipkemboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Welcome to my GitHub profile. I'm a passionate and aspiring software engineer with a strong interest in coding and continuous learning.
+
+## About Me
+- 👀 I'm deeply interested in software development and emerging technologies.
+- 🌱 I'm currently learning software engineering and working on improving my coding skills.
+- 🤝 I'm open to collaborating on open-source projects, group coding challenges, and learning communities.
+- 📫 How to reach me: iankipkemboi011@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love building practical coding projects that solve real-world problems.
+
+## Tools & Technologies
+- Languages: HTML, CSS, JavaScript, Python
+- Tools: Git, GitHub, VS Code, Postman
+- Learning: React, Node.js, Databases, APIs
+
+## Featured Repositories
+- [**CodeLab**](#): A collection of software engineering tools, best practices, and resources for streamlined development.
+- [**Internet-Application-Programming**](#): Projects focused on web technologies and practical application development.
+- [**IanKipkemboi**](#): Config files and personal setup for this GitHub profile.
+
+---
+
+Let’s connect and grow together in the tech space!
